@@ -30,7 +30,7 @@ public class calculatearea
 
     {
  
-       rectangle rec = new rectangle(10,20);
+       rectangle rec = new rectangle(50,30);
       System.out.println("Area : " + rec.calculate_area());
 
  
